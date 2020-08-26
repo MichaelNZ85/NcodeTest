@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224250692007",
+    "firebase_url": "https://testxamarinchat-52047.firebaseio.com",
+    "project_id": "testxamarinchat-52047",
+    "storage_bucket": "testxamarinchat-52047.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224250692007:android:7ba03787611b2a3f117682",
+        "android_client_info": {
+          "package_name": "nz.co.spinningcube.NcodeBkk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224250692007-d46rtl3v8022ekffm7nj74latoiehgcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozWahAoHz2Bz952KsyT0CJjWVGbd1BvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224250692007-d46rtl3v8022ekffm7nj74latoiehgcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
